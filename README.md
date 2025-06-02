@@ -1,4 +1,4 @@
-<h2> Hi!, I'm Gayathri Sruthi Gannamaneni :) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi!, I'm Sruthi Gannamaneni :) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>AI Grad Student @ <a href="http://www.unb.br">SUNY Buffalo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
