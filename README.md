@@ -1,20 +1,17 @@
-<h2> Hi!, I'm Sruthi Gannamaneni :) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>AI Grad Student @ <a href="http://www.unb.br">SUNY Buffalo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+# Hi, I'm Gayathri Sruthi 👋
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+**AI Engineer** with an M.S. in Artificial Intelligence (SUNY Buffalo). I build production LLM-powered, agentic, and RAG-based systems — currently focused on supply chain AI.
 
-```javascript
+```js
 const GSruthi = {
-  Pronouns: "she" | "her",
-  Code: [Python, Core .Net, Java, C, C++, JavaScript, HTML/CSS, SQL],
-  Tools: [Hadoop, Apache Spark, MATLAB, Jupyter, Visual Code Studio],
-  Cloud Frameworks: [Microsoft Azure, Docker, Kubernetes],
-
- challenge: "I am doing the #100DaysOfCode challenge focused on Python"
+  role:      "AI Engineer",
+  education: "M.S. Artificial Intelligence · SUNY Buffalo",
+  stack:     ["Python", "FastAPI", "LangGraph", "PostgreSQL", "Docker"],
+  ai_ml:     ["LLMs", "RAG", "Agentic AI", "HITL Systems", "MLflow"],
+  cloud:     ["Azure (AZ-900 Certified)", "AWS", "Railway"],
+  domain:    "Supply Chain AI · Cold Chain Logistics · Warehouse Tech",
+  currently_building: "Logistics Document Intelligence Platform"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to have a chat with you!</b> :)</em>
-
----
+📫 Always happy to connect — especially if you're working on supply chain AI, logistics tech, or agentic systems.
